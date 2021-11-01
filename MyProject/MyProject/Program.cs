@@ -6,7 +6,7 @@ namespace MyProject
     {
         static void PrintHello()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
         }
 
         static void GreetWhite()
