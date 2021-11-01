@@ -14,6 +14,11 @@ namespace MyProject
             Console.WriteLine("hello white");
         }
         
+        static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
+        }
+        
         static void Main(string[] args)
         {
             
