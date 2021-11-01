@@ -21,7 +21,9 @@ namespace MyProject
         
         static void Main(string[] args)
         {
-            
+            PrintHello();
+            GreetWhite();
+            GreetBlack();
         }
     }
 }
